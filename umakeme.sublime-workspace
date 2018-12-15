@@ -1,0 +1,447 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"over",
+				"overflow-y\tproperty"
+			],
+			[
+				"http",
+				"https"
+			],
+			[
+				"in",
+				"inline-flex\tdisplay"
+			],
+			[
+				"overfl",
+				"overflow-y\tproperty"
+			],
+			[
+				"htt",
+				"https"
+			],
+			[
+				"he",
+				"height\tproperty"
+			],
+			[
+				"max",
+				"max-height\tproperty"
+			],
+			[
+				"overf",
+				"overflow-y\tproperty"
+			],
+			[
+				"bord",
+				"border-color\tproperty"
+			],
+			[
+				"spa",
+				"space-between\tjustify-content"
+			],
+			[
+				"margi",
+				"margin-bottom\tproperty"
+			],
+			[
+				"t",
+				"text-bottom\tvertical-align"
+			],
+			[
+				"inl",
+				"inline\tdisplay"
+			],
+			[
+				"flex",
+				"flex-direction\tproperty"
+			],
+			[
+				"margin",
+				"margin-left\tproperty"
+			],
+			[
+				"fle",
+				"flex-direction\tproperty"
+			],
+			[
+				"textal",
+				"text-align\tproperty"
+			],
+			[
+				"marg",
+				"margin-top\tproperty"
+			],
+			[
+				"flew",
+				"flex-grow\tproperty"
+			],
+			[
+				"tr",
+				"translate()\ttransform"
+			],
+			[
+				"tra",
+				"translateY()\ttransform"
+			],
+			[
+				"bor",
+				"border-radius\tproperty"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"boxs",
+				"box-sizing\tproperty"
+			],
+			[
+				"co",
+				"cover\tbackground-size"
+			],
+			[
+				"c",
+				"cover\tbackground-size"
+			],
+			[
+				"al",
+				"alt\tAttr"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 5082,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "main.css",
+			"settings":
+			{
+				"buffer_size": 1226,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Andrew/Desktop/test.html",
+			"settings":
+			{
+				"buffer_size": 752,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "<!DOCTYPE html>\n<html>\n<head>\n\t<title></title>\n</head>\n<body>\n\n</body>\n</html>",
+			"file": "/C/Users/Andrew/Desktop/jsbasics/js.html",
+			"file_size": 0,
+			"file_write_time": 131889618399924168,
+			"settings":
+			{
+				"buffer_size": 78,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Andrew/Desktop/umakeme/happy.html",
+		"/C/Users/Andrew/Desktop/umakeme/press.css",
+		"/C/Users/Andrew/Desktop/PatientPortal/patientportal.css",
+		"/C/Users/Andrew/Desktop/PatientPortal/patientportal.html",
+		"/C/Users/Andrew/Desktop/floyd/main.css",
+		"/C/Users/Andrew/Desktop/floyd/hhh.html",
+		"/C/Users/Andrew/Desktop/umakeme/sick.html",
+		"/C/Users/Andrew/Desktop/umakeme/curious.html",
+		"/C/Users/Andrew/Desktop/umakeme/afraid.html",
+		"/C/Users/Andrew/Desktop/umakeme/sad.html",
+		"/C/Users/Andrew/Desktop/umakeme/mad.html",
+		"/C/Users/Andrew/Desktop/umakemebulma/indexbulma.html",
+		"/C/Users/Andrew/Desktop/umakeme/main.css",
+		"/C/Users/Andrew/Desktop/umakemebulma/bulma.css",
+		"/C/Users/Andrew/Desktop/umakemebulma/mainbulma.css",
+		"/C/Users/Andrew/Desktop/umakeme/index.html",
+		"/C/Users/Andrew/Downloads/bulma-0.7.2/bulma-0.7.2/css/bulma.css",
+		"/C/Users/Andrew/Downloads/bulma-0.7.2/bulma-0.7.2/README.md",
+		"/C/Users/Andrew/Downloads/Login_v10/Login_v10/css/util.css",
+		"/C/Users/Andrew/Downloads/Login_v10/Login_v10/css/main.css",
+		"/C/Users/Andrew/Desktop/html cheat sheet/Practice1.html",
+		"/C/Users/Andrew/Desktop/html cheat sheet/index.html",
+		"/C/Users/Andrew/Desktop/PatientPortal/Patient Portal.html"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5082,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4994,
+								4994
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "main.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1226,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								866,
+								866
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 702.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/Users/Andrew/Desktop/test.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 752,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								451,
+								451
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/Users/Andrew/Desktop/jsbasics/js.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 78,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								38,
+								38
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "umakeme.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
